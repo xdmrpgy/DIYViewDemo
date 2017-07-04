@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.panguangyi.diyview0401.MainActivity">
+
+    <com.example.panguangyi.diyview0401.CircleView
+        android:layout_width="600dp"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="#000000"
+        app:circle_color="#0073ff"/>
+
+</LinearLayout>

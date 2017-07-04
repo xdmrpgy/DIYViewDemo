@@ -1,0 +1,1 @@
+自定义View Demo，包含继承View和继承ViewGroup两种场景。其中继承ViewGroup的情况还处理了滑动冲突以及使用弹性滑动
